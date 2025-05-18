@@ -1,0 +1,10 @@
+#Details: The dataset contains over 20,000 images of tomato leaves categorized into six classes: 
+#healthy, 
+#Early blight,
+#Septoria leaf spot, 
+#Tomato Yellow Leaf Curl Virus, 
+#Bacterial spot, and 
+#Leaf Mold. 
+#These images are collected from both controlled laboratory environments and real-world, in-the-wild settings to capture diverse conditions.
+
+#link for the dataset: https://www.kaggle.com/datasets/ashishmotwani/tomato
